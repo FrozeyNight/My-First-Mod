@@ -1,0 +1,62 @@
+{
+  "item.myfirstmod.sapphire" : "Sapphire",
+  "item.myfirstmod.raw_sapphire" : "Raw Sapphire",
+
+  "item.myfirstmod.metal_detector": "Metal Detector",
+
+  "item.myfirstmod.sapphire_staff": "Sapphire Staff",
+
+  "item.myfirstmod.strawberry": "Strawberry",
+  "item.myfirstmod.pine_cone": "Pine Cone",
+
+  "item.myfirstmod.sapphire_sword": "Sapphire Sword",
+  "item.myfirstmod.sapphire_pickaxe": "Sapphire Pickaxe",
+  "item.myfirstmod.sapphire_axe": "Sapphire Axe",
+  "item.myfirstmod.sapphire_shovel": "Sapphire Shovel",
+  "item.myfirstmod.sapphire_hoe": "Sapphire Hoe",
+
+  "item.myfirstmod.sapphire_helmet": "Sapphire Helmet",
+  "item.myfirstmod.sapphire_chestplate": "Sapphire Chestplate",
+  "item.myfirstmod.sapphire_leggings": "Sapphire Leggings",
+  "item.myfirstmod.sapphire_boots": "Sapphire Boots",
+
+  "item.myfirstmod.strawberry_seeds": "Strawberry Seeds",
+
+  "item.myfirstmod.corn_seeds": "Corn Seeds",
+  "item.myfirstmod.corn": "Corn",
+
+  "item.myfirstmod.bar_brawl_music_disc": "Bar Brawl Music Disc",
+  "item.myfirstmod.bar_brawl_music_disc.desc": "Bryan Tech - Bar Brawl (CC0)",
+
+  "block.myfirstmod.sapphire_block": "Block of Sapphire",
+  "block.myfirstmod.raw_sapphire_block": "Block of Raw Sapphire",
+
+  "block.myfirstmod.sapphire_ore": "Sapphire Ore",
+  "block.myfirstmod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+  "block.myfirstmod.nether_sapphire_ore": "Nether Sapphire Ore",
+  "block.myfirstmod.end_stone_sapphire_ore": "Endstone Sapphire Ore",
+
+  "block.myfirstmod.sound_block": "Sound Block",
+
+  "block.myfirstmod.sapphire_stairs": "Sapphire Stairs",
+  "block.myfirstmod.sapphire_slab": "Sapphire Slab",
+  "block.myfirstmod.sapphire_button": "Sapphire Button",
+  "block.myfirstmod.sapphire_pressure_plate": "Sapphire Pressure Plate",
+  "block.myfirstmod.sapphire_fence": "Sapphire Fence",
+  "block.myfirstmod.sapphire_fence_gate": "Sapphire Fence Gate",
+  "block.myfirstmod.sapphire_wall": "Sapphire Wall",
+  "block.myfirstmod.sapphire_door": "Sapphire Door",
+  "block.myfirstmod.sapphire_trapdoor": "Sapphire Trapdoor",
+
+  "block.myfirstmod.gem_polishing_station": "Gem Polishing Station",
+
+  "block.myfirstmod.catmint": "Catmint",
+
+  "creativetab.myfirstmod_tab": "Sapphire Tutorial Tab",
+
+  "tooltip.myfirstmod.metal_detector.tooltip": "Finds valuables underground!",
+
+  "entity.minecraft.villager.myfirstmod.soundmaster": "Sound Master",
+
+  "sounds.myfirstmod.metal_detector_found_ore": "Metal Detector Jingle"
+}

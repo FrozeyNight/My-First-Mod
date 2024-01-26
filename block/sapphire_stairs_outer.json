@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "myfirstmod:block/sapphire_block",
+    "side": "myfirstmod:block/sapphire_block",
+    "top": "myfirstmod:block/sapphire_block"
+  }
+}
